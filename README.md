@@ -9,7 +9,4 @@
 
 Ð´¶Î´úÂë¿´¿´
 
-'''
-HELLO WORLD
-PRINT!
-'''
+'HELLO GITHUB'
